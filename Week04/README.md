@@ -1,3 +1,3 @@
-# 刷题笔记
+# 算法笔记
 
-题目来源：[力扣](https://leetcode.cn/problemset/all/)
+教程来源：[labuladong](https://labuladong.online/algo/)
